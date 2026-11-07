@@ -11,6 +11,7 @@
 
   "native_id": "ca-app-pub-6658570461438784/7734262503",
   "is_native_enabled": true,
+  "native_interval": 2,
 
   "banner_id": "ca-app-pub-3940256099942544/6300978111",
   "is_banner_enabled": false,
@@ -27,7 +28,8 @@
   },
   "native": {
     "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-6658570461438784/7734262503"
+    "ad_unit_id": "ca-app-pub-6658570461438784/7734262503",
+    "scroll_interval": 2
   },
   "banner": {
     "is_enabled": false,
