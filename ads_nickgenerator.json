@@ -6,7 +6,7 @@
     "ad_unit_id_production": "ca-app-pub-6658570461438784/XXXXXXXXXX"
   },
   "banner_ad": {
-    "is_active": true,
+    "is_active": false,
     "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
     "ad_unit_id_production": "ca-app-pub-6658570461438784/XXXXXXXXXX"
   },
