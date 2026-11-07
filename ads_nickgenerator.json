@@ -1,5 +1,10 @@
 {
   "ads_enabled": true,
+  "app_open_ad": {
+    "is_active": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "ad_unit_id_production": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+  },
   "banner_ad": {
     "is_active": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -9,7 +14,13 @@
     "is_active": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "ad_unit_id_production": "ca-app-pub-6658570461438784/YYYYYYYYYY",
-    "interval": 5
+    "interval_clicks": 5,
+    "time_interval_seconds": 60
+  },
+  "native_ad": {
+    "is_active": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "ad_unit_id_production": "ca-app-pub-6658570461438784/ZZZZZZZZZZ"
   },
   "app_config": {
     "min_version_code": 2,
