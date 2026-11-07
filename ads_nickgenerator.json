@@ -1,0 +1,22 @@
+{
+  "ads_enabled": true,
+  "banner_ad": {
+    "is_active": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "ad_unit_id_production": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+  },
+  "interstitial_ad": {
+    "is_active": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "ad_unit_id_production": "ca-app-pub-6658570461438784/YYYYYYYYYY",
+    "interval": 5
+  },
+  "app_config": {
+    "min_version_code": 2,
+    "latest_version_code": 2,
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.banadev.nickgenerator",
+    "maintenance_mode": false,
+    "announcement_message": ""
+  }
+}
