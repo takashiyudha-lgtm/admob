@@ -14,8 +14,8 @@
     "is_active": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "ad_unit_id_production": "ca-app-pub-6658570461438784/YYYYYYYYYY",
-    "interval_clicks": 5,
-    "time_interval_seconds": 60
+    "interval_clicks": 3,
+    "time_interval_seconds": 30
   },
   "native_ad": {
     "is_active": true,
