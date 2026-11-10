@@ -1,0 +1,11 @@
+{
+  "publisher_id": "pub-6658570461438784",
+  "app_open_ad_id": "ca-app-pub-3940256099942544/9257390112",
+  "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_ad_id": "ca-app-pub-3940256099942544/2247690489",
+  "interstitial_interval": 2,
+  "min_interval_seconds": 30,
+  "native_interval": 3,
+  "ads_enabled": true
+}
