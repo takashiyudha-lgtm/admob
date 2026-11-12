@@ -2,11 +2,11 @@
   "enable_ads": false,
   "interstitial_interval": 3,
   "ad_units": {
-    "app_open": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "banner": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "interstitial": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "native_advanced": "ca-app-pub-6658570461438784/XXXXXXXXXX",
-    "rewarded": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+    "app_open": "ca-app-pub-6658570461438784/6350709289",
+    "banner": "ca-app-pub-6658570461438784/3584286005",
+    "interstitial": "ca-app-pub-6658570461438784/3317526845",
+    "native_advanced": "ca-app-pub-6658570461438784/2220067590",
+    "rewarded": "ca-app-pub-6658570461438784/4818135764"
   },
   "policy": { ... }
 }
