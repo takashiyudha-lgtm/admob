@@ -1,5 +1,5 @@
 {
-  "enable_ads": true,
+  "enable_ads": false,
   "interstitial_interval": 3,
   "ad_units": {
     "app_open": "ca-app-pub-6658570461438784/6350709289",
