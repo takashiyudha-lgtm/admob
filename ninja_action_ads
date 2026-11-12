@@ -5,7 +5,7 @@
   "interstitial_id": "ca-app-pub-6658570461438784~8338901779",
   "is_interstitial_enabled": true,
   "interval_click": 2,
-  "cooldown_seconds": 300,
+  "cooldown_seconds": 120,
   "native_id": "ca-app-pub-6658570461438784~8338901779",
   "is_native_enabled": false,
   "native_interval": 2,
@@ -19,7 +19,7 @@
     "is_enabled": true,
     "ad_unit_id": "ca-app-pub-6658570461438784/4263925394",
     "interval_click": 2,
-    "cooldown_seconds": 300
+    "cooldown_seconds": 150
   },
   "native": {
     "is_enabled": false,
