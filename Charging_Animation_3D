@@ -1,0 +1,12 @@
+{
+  "enable_ads": false,
+  "interstitial_interval": 3,
+  "ad_units": {
+    "app_open": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "banner": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "interstitial": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "native_advanced": "ca-app-pub-6658570461438784/XXXXXXXXXX",
+    "rewarded": "ca-app-pub-6658570461438784/XXXXXXXXXX"
+  },
+  "policy": { ... }
+}
