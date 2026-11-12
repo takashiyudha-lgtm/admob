@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "anime_energy",
+      "name": "Anime Energy",
+      "animations": [
+        {
+          "id": "super_saiyan_energy",
+          "name": "Super Saiyan Energy",
+          "type": "procedural",
+          "is_premium": true
+        },
+        {
+          "id": "sharingan_spin",
+          "name": "Sharingan Spin",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_sharingan_dummy.json",
+          "is_premium": false
+        },
+        {
+          "id": "rasengan_charge",
+          "name": "Rasengan Charge",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_rasengan_dummy.json",
+          "is_premium": true
+        },
+        {
+          "id": "water_breathing",
+          "name": "Breathing Technique: Water",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_water_dummy.json",
+          "is_premium": false
+        },
+        {
+          "id": "fire_breathing",
+          "name": "Breathing Technique: Fire",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_fire_dummy.json",
+          "is_premium": true
+        },
+        {
+          "id": "domain_expansion",
+          "name": "Domain Expansion",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_domain_dummy.json",
+          "is_premium": true
+        },
+        {
+          "id": "hollow_purple",
+          "name": "Hollow Purple",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_purple_dummy.json",
+          "is_premium": true
+        },
+        {
+          "id": "one_for_all",
+          "name": "One For All Spark",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_ofa_dummy.json",
+          "is_premium": false
+        },
+        {
+          "id": "spirit_bomb",
+          "name": "Spirit Bomb Gather",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_spirit_dummy.json",
+          "is_premium": true
+        },
+        {
+          "id": "gear_5_heartbeat",
+          "name": "Gear 5 Heartbeat",
+          "type": "lottie",
+          "url": "https://assets10.lottiefiles.com/packages/lf20_gear5_dummy.json",
+          "is_premium": true
+        }
+      ]
+    }
+  ]
+}
