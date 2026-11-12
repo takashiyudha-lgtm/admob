@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
 
   "open_app_id": "ca-app-pub-6658570461438784~8972229114",
   "is_open_app_enabled": true,
