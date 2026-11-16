@@ -4,11 +4,11 @@
   "is_open_app_enabled": true,
   "interstitial_id": "ca-app-pub-6658570461438784/7322089142",
   "is_interstitial_enabled": true,
-  "interval_click": 2,
-  "cooldown_seconds": 120,
+  "interval_click": 4,
+  "cooldown_seconds": 300,
   "native_id": "ca-app-pub-6658570461438784/6766695575",
   "is_native_enabled": false,
-  "native_interval": 2,
+  "native_interval": 4,
   "banner_id": "ca-app-pub-3940256099942544/6300978111",
   "is_banner_enabled": false,
   "open_app": {
@@ -18,13 +18,13 @@
   "interstitial": {
     "is_enabled": true,
     "ad_unit_id": "ca-app-pub-6658570461438784/7322089142",
-    "interval_click": 2,
-    "cooldown_seconds": 150
+    "interval_click": 4,
+    "cooldown_seconds": 300
   },
   "native": {
     "is_enabled": false,
     "ad_unit_id": "ca-app-pub-6658570461438784/6766695575",
-    "scroll_interval": 2
+    "scroll_interval": 4
   },
   "banner": {
     "is_enabled": false,
