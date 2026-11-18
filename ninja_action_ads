@@ -4,11 +4,11 @@
   "is_open_app_enabled": true,
   "interstitial_id": "ca-app-pub-6658570461438784~8338901779",
   "is_interstitial_enabled": true,
-  "interval_click": 2,
-  "cooldown_seconds": 120,
+  "interval_click": 4,
+  "cooldown_seconds": 300,
   "native_id": "ca-app-pub-6658570461438784~8338901779",
   "is_native_enabled": false,
-  "native_interval": 2,
+  "native_interval": 4,
   "banner_id": "ca-app-pub-6658570461438784~8338901779",
   "is_banner_enabled": false,
   "open_app": {
@@ -18,8 +18,8 @@
   "interstitial": {
     "is_enabled": true,
     "ad_unit_id": "ca-app-pub-6658570461438784/4263925394",
-    "interval_click": 2,
-    "cooldown_seconds": 150
+    "interval_click": 4,
+    "cooldown_seconds": 300
   },
   "native": {
     "is_enabled": false,
