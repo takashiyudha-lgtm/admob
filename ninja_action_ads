@@ -1,15 +1,15 @@
 {
   "ads_enabled": true,
-  "open_app_id": "ca-app-pub-6658570461438784~8338901779",
+  "open_app_id": "ca-app-pub-6658570461438784/8203170406",
   "is_open_app_enabled": true,
-  "interstitial_id": "ca-app-pub-6658570461438784~8338901779",
+  "interstitial_id": "ca-app-pub-6658570461438784/4263925394",
   "is_interstitial_enabled": true,
   "interval_click": 4,
   "cooldown_seconds": 300,
-  "native_id": "ca-app-pub-6658570461438784~8338901779",
+  "native_id": "ca-app-pub-6658570461438784/9324680385",
   "is_native_enabled": false,
   "native_interval": 4,
-  "banner_id": "ca-app-pub-6658570461438784~8338901779",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
   "is_banner_enabled": false,
   "open_app": {
     "is_enabled": true,
@@ -24,7 +24,7 @@
   "native": {
     "is_enabled": false,
     "ad_unit_id": "ca-app-pub-6658570461438784/9324680385",
-    "scroll_interval": 2
+    "scroll_interval": 4
   },
   "banner": {
     "is_enabled": false,
