@@ -1,21 +1,16 @@
 {
   "ads_enabled": true,
-
   "open_app_id": "ca-app-pub-6658570461438784/2191160354",
   "is_open_app_enabled": true,
-
   "interstitial_id": "ca-app-pub-6658570461438784/5508508705",
   "is_interstitial_enabled": true,
   "interval_click": 4,
   "cooldown_seconds": 300,
-
   "native_id": "ca-app-pub-6658570461438784/5834765580",
   "is_native_enabled": true,
   "native_interval": 4,
-
-  "banner_id": "a-app-pub-6658570461438784/4114489803",
+  "banner_id": "ca-app-pub-6658570461438784/4114489803",
   "is_banner_enabled": false,
-
   "open_app": {
     "is_enabled": true,
     "ad_unit_id": "ca-app-pub-6658570461438784/2191160354"
