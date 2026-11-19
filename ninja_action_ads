@@ -7,8 +7,8 @@
   "interval_click": 4,
   "cooldown_seconds": 300,
   "native_id": "ca-app-pub-6658570461438784/9324680385",
-  "is_native_enabled": false,
-  "native_interval": 4,
+  "is_native_enabled": true,
+  "native_interval": 10,
   "banner_id": "ca-app-pub-3940256099942544/6300978111",
   "is_banner_enabled": false,
   "open_app": {
@@ -22,9 +22,9 @@
     "cooldown_seconds": 300
   },
   "native": {
-    "is_enabled": false,
+    "is_enabled": true,
     "ad_unit_id": "ca-app-pub-6658570461438784/9324680385",
-    "scroll_interval": 4
+    "scroll_interval": 10
   },
   "banner": {
     "is_enabled": false,
